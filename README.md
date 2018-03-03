@@ -1,2 +1,2 @@
-# javascript-React
-task_14.8
+# Javascript-React
+GIF SEARCH ENGINE
